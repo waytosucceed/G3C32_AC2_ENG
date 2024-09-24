@@ -1,0 +1,223 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which sentence uses simple future tense?",
+        "options": [
+            "I am eating an apple.",
+            "I will eat an apple.",
+            "I ate an apple.",
+            "I eat apples."
+        ],
+        "correct": 1,
+        "explanation": "The simple future tense uses 'will' before the action word to talk about something that will happen later."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which sentence uses future continuous tense?",
+        "options": [
+            "I will play soccer tomorrow.",
+            "I am playing soccer now.",
+            "I will be playing soccer all afternoon.",
+            "I played soccer yesterday."
+        ],
+        "correct": 2,
+        "explanation": "This sentence uses 'will be' + 'playing' to show an action that will continue for some time in the future."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence is in simple future tense?",
+        "options": [
+            "The sun is shining.",
+            "The sun will shine tomorrow.",
+            "The sun shone yesterday.",
+            "The sun shines every day."
+        ],
+        "correct": 1,
+        "explanation": "This sentence uses 'will' to talk about something that is expected to happen in the future."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which sentence uses future continuous tense?",
+        "options": [
+            "The birds sing in the morning.",
+            "The birds will sing tomorrow.",
+            "The birds will be singing all day.",
+            "The birds sang yesterday."
+        ],
+        "correct": 2,
+        "explanation": "This sentence uses 'will be' + 'singing' to describe an action that will continue for a period of time in the future."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which sentence is in future continuous tense?",
+        "options": [
+            "We play in the park every day.",
+            "We will play in the park tomorrow.",
+            "We will be playing in the park all afternoon.",
+            "We played in the park yesterday."
+        ],
+        "correct": 2,
+        "explanation": "This sentence uses 'will be' + 'playing' to show an action that will continue for some time in the future."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "I ______ visit my grandma next week.",
+        "options": [
+            "will",
+            "will be"
+        ],
+        "correct": 0,
+        "explanation": "'I will visit my grandma next week' uses the simple future tense. It talks about things that haven’t happened yet but will happen in the future."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "At 3 PM, I ______ playing outside.",
+        "options": [
+            "will",
+            "will be"
+        ],
+        "correct": 1,
+        "explanation": "'I will be playing outside' uses the future continuous tense to show an ongoing action at a specific time."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Tomorrow, she ______ bake a cake.",
+        "options": [
+            "will",
+            "will be"
+        ],
+        "correct": 0,
+        "explanation": "'She will bake a cake' uses the simple future tense. The verb 'bake' is the base form of the verb."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "We ______ watching a movie at 7 PM.",
+        "options": [
+            "will",
+            "will be"
+        ],
+        "correct": 1,
+        "explanation": "'We will be watching a movie' uses the future continuous tense. The verb 'watch' is used with the 'ing' form."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "She ______ cleaning the house all day.",
+        "options": [
+            "will",
+            "will be"
+        ],
+        "correct": 1,
+        "explanation": "'She will be cleaning the house' uses the future continuous tense. The verb 'clean' is used with the 'ing' form."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "The sentence 'I will be eating dinner at 7 PM' is in the future continuous tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "It describes an ongoing action at a specific time in the future."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "The future continuous tense uses 'will be' with a verb ending in -ing.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "The future continuous tense uses 'will be' + verb-ing to describe an ongoing action in the future."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "'I am going to the store' is in the future continuous tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "'I am going to the store' is in the present continuous tense. The sentence does not use 'will' or 'will be.'"
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "'They will play soccer tomorrow' is in the simple future tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "It describes an action that will happen in the future. Rule: Subject + will + base form of the verb + rest of the sentence."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "The sentence 'She was writing a letter' is in the future continuous tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "'She was writing a letter' is in the past continuous tense. This sentence uses 'was' and does not use 'will' or 'will be.'"
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "What is the correct way to say you will play outside tomorrow?",
+        "options": [
+            "I played outside tomorrow.",
+            "I will play outside tomorrow.",
+            "I am playing outside tomorrow.",
+            "I play outside tomorrow."
+        ],
+        "correct": 1,
+        "explanation": "This uses the simple future tense to show an action that will happen in the future."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Which sentence is in the future continuous tense?",
+        "options": [
+            "I will be eating dinner at 6 PM.",
+            "I eat dinner at 6 PM.",
+            "I ate dinner at 6 PM.",
+            "I will eat dinner at 6 PM."
+        ],
+        "correct": 0,
+        "explanation": "This uses the future continuous tense to describe an action that will be in progress at a specific time in the future."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "What is the future continuous form of 'He reads a book'?",
+        "options": [
+            "He will read a book.",
+            "He will be reading a book.",
+            "He is reading a book.",
+            "He read a book."
+        ],
+        "correct": 1,
+        "explanation": "This shows that the action will be ongoing at a certain time in the future. Rule: Subject + will be + present participle (verb + ing) + rest of the sentence."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which sentence shows something that will happen in the future?",
+        "options": [
+            "I am playing with my friend.",
+            "I played with my friend.",
+            "I will play with my friend.",
+            "I play with my friend."
+        ],
+        "correct": 2,
+        "explanation": "This uses the simple future tense. Rule: Subject + will + base form of the verb + rest of the sentence."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which sentence is correct according to 'Simple future tense'?",
+        "options": [
+            "They danced at the party.",
+            "They will dancing at the party.",
+            "They will danced at the party.",
+            "They will dance at the party."
+        ],
+        "correct": 3,
+        "explanation": "This is in the simple future tense. The simple future tense is used to describe actions that will happen at a specific time in the future. Rule: Subject + will + base form of the verb + rest of the sentence."
+    }
+]
+
